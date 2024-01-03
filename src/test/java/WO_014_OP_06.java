@@ -9,7 +9,6 @@ import java.util.concurrent.TimeUnit;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 
 public class WO_014_OP_06 extends Hooks {
-	// try
 
 	// 1- Open the URL.
 	// 2- Click "WebOrder" button on top bar.
