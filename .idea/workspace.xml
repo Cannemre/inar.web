@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23d40146-2d18-426e-af8c-b7959a2b3a92" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2ZxAySbhaeT5PCfYF7BNNX0GRpS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/emrecan/workspace/inar.academy.weborder/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WO_014_OP_06.verifyInvalidExpireDateErrorMessage">
+    <configuration name="WO_010_VAO_01.verifyCheckAllFunctionalityInViewAllOrderPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inar.academy.weborder" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WO_010_VAO_01" />
+      <option name="METHOD_NAME" value="verifyCheckAllFunctionalityInViewAllOrderPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WO_011_VAO_02.verifyUncheckAllFunctionalityInViewAllOrderPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inar.academy.weborder" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WO_011_VAO_02" />
+      <option name="METHOD_NAME" value="verifyUncheckAllFunctionalityInViewAllOrderPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WO_012_VAO_03.verifyDeleteFunctionalityInViewAllOrderPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inar.academy.weborder" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WO_012_VAO_03" />
+      <option name="METHOD_NAME" value="verifyDeleteFunctionalityInViewAllOrderPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WO_013_OP_05.unitPriceVerification" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inar.academy.weborder" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WO_013_OP_05" />
+      <option name="METHOD_NAME" value="unitPriceVerification" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WO_014_OP_06.verifyInvalidExpireDateErrorMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inar.academy.weborder" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WO_014_OP_06" />
+      <option name="METHOD_NAME" value="verifyInvalidExpireDateErrorMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WO_014_OP_06.verifyInvalidExpireDateErrorMessage" />
+        <item itemvalue="JUnit.WO_013_OP_05.unitPriceVerification" />
+        <item itemvalue="JUnit.WO_012_VAO_03.verifyDeleteFunctionalityInViewAllOrderPage" />
+        <item itemvalue="JUnit.WO_011_VAO_02.verifyUncheckAllFunctionalityInViewAllOrderPage" />
+        <item itemvalue="JUnit.WO_010_VAO_01.verifyCheckAllFunctionalityInViewAllOrderPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23d40146-2d18-426e-af8c-b7959a2b3a92" name="Changes" comment="" />
+      <created>1703353613435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703353613435</updated>
+      <workItem from="1703353614827" duration="4087000" />
+      <workItem from="1703528046951" duration="42000" />
+      <workItem from="1703606904816" duration="334000" />
+      <workItem from="1703712473381" duration="3238000" />
+      <workItem from="1703719077354" duration="2427000" />
+      <workItem from="1703803287791" duration="106000" />
+      <workItem from="1704130964739" duration="1605000" />
+      <workItem from="1704212237031" duration="160000" />
+      <workItem from="1704222938926" duration="13728000" />
+      <workItem from="1704294299022" duration="2890000" />
+      <workItem from="1704298946768" duration="8224000" />
+      <workItem from="1704307356527" duration="272000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
